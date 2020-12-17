@@ -1,0 +1,12 @@
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\bin\Debug\netcoreapp3.1\MulakatExam.DataAccess.deps.json
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\bin\Debug\netcoreapp3.1\MulakatExam.DataAccess.dll
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\bin\Debug\netcoreapp3.1\MulakatExam.DataAccess.pdb
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\bin\Debug\netcoreapp3.1\MulakatExam.Entity.dll
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\bin\Debug\netcoreapp3.1\MulakatExam.Entity.pdb
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\obj\Debug\netcoreapp3.1\MulakatExam.DataAccess.csprojAssemblyReference.cache
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\obj\Debug\netcoreapp3.1\MulakatExam.DataAccess.AssemblyInfoInputs.cache
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\obj\Debug\netcoreapp3.1\MulakatExam.DataAccess.AssemblyInfo.cs
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\obj\Debug\netcoreapp3.1\MulakatExam.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\obj\Debug\netcoreapp3.1\MulakatExam.DataAccess.csproj.CopyComplete
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\obj\Debug\netcoreapp3.1\MulakatExam.DataAccess.dll
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.DataAccess\obj\Debug\netcoreapp3.1\MulakatExam.DataAccess.pdb

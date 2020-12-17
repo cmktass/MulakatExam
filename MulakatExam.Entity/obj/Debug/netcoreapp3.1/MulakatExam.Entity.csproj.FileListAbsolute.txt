@@ -1,0 +1,9 @@
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.Entity\bin\Debug\netcoreapp3.1\MulakatExam.Entity.deps.json
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.Entity\bin\Debug\netcoreapp3.1\MulakatExam.Entity.dll
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.Entity\bin\Debug\netcoreapp3.1\MulakatExam.Entity.pdb
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.Entity\obj\Debug\netcoreapp3.1\MulakatExam.Entity.csprojAssemblyReference.cache
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.Entity\obj\Debug\netcoreapp3.1\MulakatExam.Entity.AssemblyInfoInputs.cache
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.Entity\obj\Debug\netcoreapp3.1\MulakatExam.Entity.AssemblyInfo.cs
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.Entity\obj\Debug\netcoreapp3.1\MulakatExam.Entity.csproj.CoreCompileInputs.cache
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.Entity\obj\Debug\netcoreapp3.1\MulakatExam.Entity.dll
+C:\Users\cmktass\Source\Repos\MulakatExam\MulakatExam.Entity\obj\Debug\netcoreapp3.1\MulakatExam.Entity.pdb

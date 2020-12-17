@@ -1,7 +1,4 @@
 # MulakatExam
-Uygulama C# ile yazılmalıdır.
-
-Soru çözümünde eksik kalsanız dahi mutlaka bize iletin, bizim için yorumunuz önemlidir. Değerlendiriyor olacağız.
 
 Aşağıdaki gereksinimlere göre bir API tasarlayın ve proje haline getirin:
 •	API, Veri kümelerinin tamamını okuyabilmeli ve aynı anda sadece biri üzerinden işlem yapmalıdır. (veri kümeleri ekte paylaşılmıştır “xml, csv”)
